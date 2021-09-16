@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homework-20-portfolio-react/static/css/main.69a9437d.chunk.css",
+    "main.js": "/homework-20-portfolio-react/static/js/main.a7687a79.chunk.js",
+    "main.js.map": "/homework-20-portfolio-react/static/js/main.a7687a79.chunk.js.map",
+    "runtime-main.js": "/homework-20-portfolio-react/static/js/runtime-main.17b89614.js",
+    "runtime-main.js.map": "/homework-20-portfolio-react/static/js/runtime-main.17b89614.js.map",
+    "static/js/2.36a6b0dd.chunk.js": "/homework-20-portfolio-react/static/js/2.36a6b0dd.chunk.js",
+    "static/js/2.36a6b0dd.chunk.js.map": "/homework-20-portfolio-react/static/js/2.36a6b0dd.chunk.js.map",
+    "static/js/3.ea67bf29.chunk.js": "/homework-20-portfolio-react/static/js/3.ea67bf29.chunk.js",
+    "static/js/3.ea67bf29.chunk.js.map": "/homework-20-portfolio-react/static/js/3.ea67bf29.chunk.js.map",
+    "index.html": "/homework-20-portfolio-react/index.html",
+    "static/css/main.69a9437d.chunk.css.map": "/homework-20-portfolio-react/static/css/main.69a9437d.chunk.css.map",
+    "static/js/2.36a6b0dd.chunk.js.LICENSE.txt": "/homework-20-portfolio-react/static/js/2.36a6b0dd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/homework-20-portfolio-react/static/media/IMG_2018.ef1b8704.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17b89614.js",
+    "static/js/2.36a6b0dd.chunk.js",
+    "static/css/main.69a9437d.chunk.css",
+    "static/js/main.a7687a79.chunk.js"
+  ]
+}
